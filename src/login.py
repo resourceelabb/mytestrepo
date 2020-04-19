@@ -1,5 +1,4 @@
 ## I command that login should happen
 ## New feature
 ## Add company logo
-## Supported login
-## my multiple changes
+## Making login changes
